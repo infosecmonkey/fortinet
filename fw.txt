@@ -1,0 +1,148 @@
+August 28, 2019  17:47 
+
+—————————————————————————   
+
+-- BASIC --
+Customer Name:
+
+Address:
+   City:          St:        Zip:
+
+Website:
+—————————————————————————   
+
+Industry:
+
+Information about customer:
+
+
+How many users:
+
+—————————————————————————
+Customer In Meeting: 
+
+      Remote:
+
+
+Fortinet In Meeting:
+
+      Remote:
+      
+
+Partner In Meeting:
+
+      Remote:
+
+
+—————————————————————————
+-- SERVICES --
+What is you current Firewall Solution:
+What Services are you using:
+
+IPS:
+Web Content:
+SD WAN:
+WAF:
+2FA:
+WiFi:
+
+When is your renewal:
+
+FW:
+IPS:
+Web Content:
+SD WAN:
+WAF:
+2FA:
+WiFi:
+
+How many ISP do you have?
+Bandwidth:
+Are you running BGP?
+Are you doing PBR today across your ISPs?
+Refresh Schedule: 
+Expected Throughput @ Schedule: 
+HA on Firewalls: 
+What routing protocols are needed: 
+
+Type of  traffic:
+Large Packets
+Small Packets
+
+2FA:
+   VPN Only?
+   SAML?
+
+
+Intrusion Prevention: 
+     In-line |       Promiscuous  
+Are there other segments protected by IPS? 
+What type of interfaces: 
+
+How many site-to-site VPNs: 
+IKE v1 or IKEv2: 
+How many remote access VPNs (Concurrent): 
+IKEv2=         SSL=       WebPortal=
+HIP Checks: 
+—————————————————————————
+ — REGULATORY --
+
+   HIPAA     SOX      PCI      GLBA
+
+
+
+—————————————————————————
+
+Do you currently use MPLS or other private lines?
+
+Are your remote sites treated as hostile or trusted?
+Do you currently have visibility into that East-West traffic?
+
+—————————————————————————
+--SIEM/LOG--
+Are you currently using a SIEM?
+Vendor?
+        In-house         MSSP
+Are you looking for a SIEM?
+
+
+—————————————————————————      
+-- CLOUD --
+What is your organization's Cloud Strategy?
+
+
+Private:
+Azure:
+AWS:
+Oracle:
+GCP:
+AliCloud:
+
+—————————————————————————      
+-- HYPERVISOR --
+What is your organization's virtualization platform?
+
+VMWare:
+HyperV:KVM:
+OpenStack:
+
+—————————————————————————
+ — When are you looking to purchase? --
+
+
+
+
+—————————————————————————
+ -- Action Items --
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10. 
+
